@@ -1,0 +1,16 @@
+{
+  "Pub Rating Count": {
+    "$type": "number",
+    "$value": 0,
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  }
+}
